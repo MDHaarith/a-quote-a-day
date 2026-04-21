@@ -5,5 +5,5 @@ what_it_means_to_me: We often believe we are in control thinking clearly, acting
 contributor: Aurelian Grey
 department: ECE
 source: Psychological writings of Carl Jung
-tags: unconscious, self-awareness, illusion, control, identity, introspection, growth
+tags: self-awareness, self-control, identity
 ---
