@@ -1,6 +1,6 @@
 ---
 quote: “Even a brick wants to be something.”
-author: Louis Kahn
+author: "Louis Kahn"
 
 what_it_means_to_me:
 "A brick is never just a brick. It has the potential to become a weapon, a path, a shelter, or part of something extraordinary. What it becomes is shaped by how it is used.
