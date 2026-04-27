@@ -1,5 +1,5 @@
 ---
-quote: "Life is like riding a bicycle: to keep your balance, you have to keep moving"
+quote: "Life is like riding a bicycle. To keep your balance, you have to keep moving"
 author: Albert Einstein 
 what_it_means_to_me: "Bicycle needs to be petalled continuously to keep it running. To picturize this in our life, bicycle acts as a metaphor. Consistency and effort beats talent and our work gets completed by discipline"
 contributor: SUNANDA V K 
