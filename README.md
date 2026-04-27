@@ -6,42 +6,38 @@ This repository supports a simple daily practice: reading a quote, thinking abou
 
 ---
 
-## ✍️ Contribution Rules (Students)
+## Contributing a Quote
 
-Students are encouraged to contribute **every day**.
+### 1. Create your file
 
+[Click here to add your quote on GitHub](https://github.com/AndrewVeda/a-quote-a-day/new/main/quotes) — it will fork the repo and open an editor automatically.
+
+### 2. Use this template
+
+```yaml
 ---
-
-## 🧾 Quote Format
-
-Each file must contain **one quote** in the following format:
-
-```md
-> "Your quote here." — Author  
-> — added by Your Name (Department) | about: One sentence on why this quote matters to you
+quote: 
+author: 
+what_it_means_to_me: 
+contributor: 
+department: 
+source: 
+tags: 
+---
 ```
 
----
+Fill in all fields before submitting.
 
-One merged Pull Request counts as **one valid daily contribution**.
+### 3. Name your file correctly
 
----
+```
+YYYY-MM-DD_yourname_department.md
+```
 
-## 🎓 Educational Intent
+**Example:** `2026-02-04_meenz_cyber-security.md`
 
-This repository values:
-- regular practice over occasional intensity  
-- reflection over display  
-- growth over polish  
-
-Contributor history reflects **authorship and participation**.
+> Files that don't follow this format cannot be processed.
 
 ---
 
-## 📜 Attribution
-
-- Quotes belong to their original authors  
-- Reflections belong to the student contributors  
----
-
-> Return tomorrow. That matters more than adding more today!
+That's it — submit a pull request and your quote joins the collection.
